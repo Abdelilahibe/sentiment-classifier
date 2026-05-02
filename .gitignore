@@ -1,0 +1,14 @@
+# Large dataset file
+IMDB Dataset.csv
+
+# Installer
+Claude Setup.exe
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
